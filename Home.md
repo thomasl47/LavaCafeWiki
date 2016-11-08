@@ -1,6 +1,7 @@
 # Lava Cafe Stop
   * [Programming](programming/home)
   * [Travel](travel/home)
+
 ## Getting started
 
 ### OSX (10.12)
