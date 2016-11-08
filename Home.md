@@ -21,7 +21,7 @@ $ /Users/<user_name>/.gem/gems/gollum-4.0.1/bin/gollum
 
 ### 待解問題
   1. 為什麼 preview編輯完都直接 commit 到 master branch？
-  2. 目錄感覺要自己編輯
+  2. 不知有沒有自動產生目錄，目前感覺都是自己編輯
 
 ### 參考連結
   * [wiki 語法編 (基本上同markdown)](https://github.com/gollum/gollum/wiki)
