@@ -18,3 +18,10 @@ $ cd LavaCafeWiki
 $ /Users/<user_name>/.gem/gems/gollum-4.0.1/bin/gollum
 ```
 打開browser [http://localhost:4567/](http://localhost:4567/) 就會看到編輯頁了
+
+### 待解問題
+  1. 為什麼 preview編輯完都直接 commit 到 master branch？
+  2. 目錄感覺要自己編輯
+
+### 參考連結
+  * [wiki 語法編 (基本上同markdown)](https://github.com/gollum/gollum/wiki)
