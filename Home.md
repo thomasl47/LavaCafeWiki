@@ -20,7 +20,8 @@ $ /Users/<user_name>/.gem/gems/gollum-4.0.1/bin/gollum
 打開browser [http://localhost:4567/](http://localhost:4567/) 就會看到編輯頁了
 
 ### 待解問題
-  1. 為什麼 preview編輯完都直接 commit 到 master branch？
+  1. 為什麼 local 的線上編輯器 編輯完都直接 commit 到 master branch？  
+     有 commit 到 其它branch的方法嗎？
   2. 不知有沒有自動產生目錄，目前感覺都是自己編輯
   3. 內部目錄時，local編輯器使用(例: ```[Travel](travel/Home)```) 可以變連結直接點擊  
      但github上要變連結，還要加上後面的副檔名(例： ```[Travel](travel/Home.md)```)  
