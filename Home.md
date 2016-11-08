@@ -1,6 +1,6 @@
 # Lava Cafe Stop
-  * [Programming](programming/home)
-  * [Travel](travel/home)
+  * [Programming](programming/Home.md)
+  * [Travel](travel/Home.md)
 
 ## Getting started
 
@@ -17,7 +17,7 @@ Successfully installed gollum-4.0.1
 $ cd LavaCafeWiki
 $ /Users/<user_name>/.gem/gems/gollum-4.0.1/bin/gollum
 ```
-打開browser [http://localhost:4567/](http://localhost:4567/) 就會看到編輯頁了
+打開browser [http://localhost:4567/](http://localhost:4567/) 就會看到編輯頁了
 
 ### 待解問題
   1. 為什麼 preview編輯完都直接 commit 到 master branch？
