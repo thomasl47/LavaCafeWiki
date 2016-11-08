@@ -1,5 +1,7 @@
 # Lava Coffee Stop
+
 ## Getting started
+
 ### OSX (10.12)
 ```bash
 $ brew install icu4c
