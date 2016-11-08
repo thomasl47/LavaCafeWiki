@@ -22,8 +22,8 @@ $ /Users/<user_name>/.gem/gems/gollum-4.0.1/bin/gollum
 ### 待解問題
   1. 為什麼 preview編輯完都直接 commit 到 master branch？
   2. 不知有沒有自動產生目錄，目前感覺都是自己編輯
-  3. 內部目錄時，local編輯器使用(例: [Travel](travel/Home)) 可以變連結直接點擊  
-     但github上要變連結，還要加上後面的副檔名(例： [Travel](travel/Home.md))  
+  3. 內部目錄時，local編輯器使用(例: ```[Travel](travel/Home)```) 可以變連結直接點擊  
+     但github上要變連結，還要加上後面的副檔名(例： ```[Travel](travel/Home.md)```)  
      兩邊不互通不方便呀......
 
 ### 參考連結
