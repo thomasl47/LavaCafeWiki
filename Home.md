@@ -1,5 +1,5 @@
 # Lava Cafe Stop
-[在你開始之前...](getting_started.md)
+[在你開始之前...](Getting-Started.md)
 
 ## Learning
 Programing     | Others
