@@ -1,5 +1,8 @@
-# Happy Programming
-歡迎來到 Amos Victor的教學空間
+# Programming Zone
+歡迎來到 Amos, Victor 神的領域
 
-## Kate 老師的教學區
-等待 Kate 老師上線...
+## Kate 老師
+您的 Kate 老師已上線...
+
+## Sharing Links (好文值得一看)
+  * [merge branch 的新選擇： rebase](https://ihower.tw/blog/archives/3843)
