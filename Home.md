@@ -1,4 +1,4 @@
-# Lava Coffee Stop
+# Lava Cafe Stop
 
 ## Getting started
 
