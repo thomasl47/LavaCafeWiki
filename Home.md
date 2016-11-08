@@ -1,6 +1,6 @@
 # Lava Cafe Stop
-  * [Programming](programming/Home.md)
-  * [Travel](travel/Home.md)
+  * [Coding (坐穩了，老師要開課了)](programming/Home.md)
+  * [旅行放鬆 (跟著Dryden遊歐洲)](travel/Home.md)
 
 ## Getting started
 
