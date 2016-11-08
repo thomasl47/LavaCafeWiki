@@ -3,6 +3,7 @@
 
 基本上你可以直接跳過這一篇，直接開始用了
 
+## Install Gollum Wiki System
 ### OSX (10.12)
 ```bash
 $ brew install icu4c
