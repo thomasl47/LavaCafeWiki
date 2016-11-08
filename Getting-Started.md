@@ -1,4 +1,3 @@
-# Getting started
 如果沒有要用到 Local 編輯器，而是使用 github 線上編輯器
 
 基本上你可以直接跳過這一篇，直接開始用了
