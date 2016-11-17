@@ -108,8 +108,6 @@
 ```
 
 ##### 量子纏結(quantum entanglement)
-  * [[https://youtu.be/eqFZF7VuXbw|BBC影片]]
-  * [[https://youtu.be/kGRyHi72qvk|介紹影片]]
 ```
 當你觀察 A 粒子的狀態時，一定會影響 B 粒子的狀態
 不論 A、B粒子距離多麼遙遠
