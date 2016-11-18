@@ -7,9 +7,9 @@
 
 ![Tor](/img/common_science/theory_of_relativity.gif)
 
-Ref from [image][1]
+Image from <sup>[1]</sup>
 
-  [1]: http://mathieuthomas.tumblr.com/post/126618985362/lespace-le-temps-et-la-lumi%C3%A8re "Image"
+  [1]: http://mathieuthomas.tumblr.com/post/126618985362/lespace-le-temps-et-la-lumi%C3%A8re "website"
 ```
 「狹義相對論」假設時空是平的(如圖a，平直的座標)
 只討論當物體座標彼此之間相對運動時
