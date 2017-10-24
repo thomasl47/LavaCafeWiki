@@ -1,6 +1,9 @@
 # Lava Cafe Stop
 [在你開始之前...(Before start)](Getting-Started.md)
 
+## Reading
+  * [掘金](https://github.com/xitu/gold-miner): (newspaper) 翻譯一些網路上的文章
+
 ## Learning
 Learning       | Moderators     | Desc
 -------------- | -------------  | -------------
